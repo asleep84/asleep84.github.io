@@ -45,21 +45,6 @@ $hr-border-color: #eff0f1 !default;
     background-repeat: no-repeat;
     background-position: center center;
 }
-// buttons
-@import "{{ site.theme }}";
-
-.btn {
-color: #FFFF00;
-border-color: #FFFF00;
-background-color: #FFFF00;
-}
-
-.btn:hover {
-color: #00FFFF;
-text-decoration: none;
-background-color: #00FFFF;
-border-color: #00FFFF;
-}
 
 {% endif %}
 
