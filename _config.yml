@@ -2,10 +2,10 @@ title: Asleep84
 description:  Worship Song Number Charts
 remote_theme: tuur29/pages-themes-cayman
 darkmode: true
-# color:
-#  header: "#000"
-#  gradient_left: "#10a5f5"
-#  gradient_right: "#add8e6"
+color:
+  header: "#000"
+  gradient_left: "#00FFFF"
+  gradient_right: "#FF369B"
 logo_url: 
 gems:
 - jekyll-seo-tag
