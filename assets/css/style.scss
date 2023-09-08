@@ -29,6 +29,7 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
+//logo
 @import 'jekyll-theme-cayman';
 
 {% if site.logo_url %}
@@ -44,6 +45,23 @@ $hr-border-color: #eff0f1 !default;
     background-repeat: no-repeat;
     background-position: center center;
 }
+// buttons
+@import "{{ site.theme }}";
+
+.btn {
+color: #00FFFF;
+border-color: #000000;
+background-color: #FF369B;
+}
+
+
+.btn:hover {
+color: #FF369B;
+text-decoration: none;
+background-color: #00FFFF;
+border-color: #000000;
+}
+
 {% endif %}
 
 {% if site.hide_first_title %}
