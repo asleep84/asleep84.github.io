@@ -3,7 +3,7 @@ description:  Worship Song Number Charts
 remote_theme: tuur29/pages-themes-cayman
 darkmode: true
 color:
-  header: "#000"
+  header: "#fff"
   gradient_left: "#00FFFF"
   gradient_right: "#FFFF00"
 logo_url: 
