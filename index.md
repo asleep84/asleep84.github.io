@@ -5,4 +5,6 @@ title: Asleep84
 
 
 ## Artists
-* [Victory Worship](/victory)
+
+---|---|---|---
+[Victory Worship](/artists/victory) | [Planetshakers](/artists/planetshakers) | [Hillsong](/artists/hillsong)
