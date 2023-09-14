@@ -7,4 +7,4 @@ title: Asleep84
 
 --- | --- | --- | ---
 [Victory Worship](/artists/victory) | [Planetshakers](/artists/planetshakers) | [Hillsong](/artists/hillsong) | [AWAKE84](/artists/a84) | [Mid-Cities Worship](/artists/midcities) | [Bethel Music](/artists/bethel)
-[Don Moen](/artists/donmoen) | [Various Hymns](/artists/hymns) 
+[Every Nation Music](/artists/everynation) | [Various Hymns](/artists/hymns) 
