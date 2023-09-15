@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Transposing Simplified
-description: ...by using the Nashville Number System
+description: “From the rising of the key unto the going down of the same the LORD's name is to be praised.”
 ---
+
+# How Is It Simplified?
+By using the Nashville Number System
 
 # What Is It?
 The Nashville Number System is a music notation system that uses numbers to represent chord progressions based on the scale degrees of a key, making it easier for musicians to play songs in various keys.
