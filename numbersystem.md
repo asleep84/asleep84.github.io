@@ -11,9 +11,9 @@ The Nashville Number System is a music notation system that uses numbers to repr
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---
-| C | D | E | F | G | A | B |
-| D | E | F# | G | A | B | C# | 
-| E | F# | G# | A | B | C# | D# |
-| F | G | A | A# | C | D | E | 
-| G | A | B | C | D | E | F# |
-| A | B | C# | D | E | F# | G# | 
+| C | Dm | Em | F | G | Am | B |
+| D | Em | F#m | G | A | Bm | C# | 
+| E | F#m | G#m | A | B | C#m | D# |
+| F | Gm | Am | A# | C | Dm | E | 
+| G | Am | Bm | C | D | Em | F# |
+| A | Bm | C#m | D | E | F#m | G# | 
