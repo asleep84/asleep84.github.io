@@ -12,18 +12,18 @@ Musicians use the Nashville Number System because it simplifies transposing song
 
 # Nashville Number System
 
-| 1 (I) | 2 (ii) | 3 (iii) | 4 (IV) | 5 (V) | 6 (vi) | 7 (vii°) |
-|---|---|---|---|---|---|---|
-| C | Dm | Em | F | G | Am | Bdim |
-| G | Am | Bm | C | D | Em | F#dim |
-| D | Em | F#m | G | A | Bm | C#dim | 
-| A | Bm | C#m | D | E | F#m | G#dim | 
-| E | F#m | G#m | A | B | C#m | D#dim |
-| B | C#m | D#m | E | F# | G#m | A#dim |
-| Gb | Bbm | Cm | Db | Eb | Fm | Gdim | 
-| Db | Ebm | Fm | Gb | Ab | Bbm | Cdim |
-| Ab | Bbm | Cm | Db | Eb | F | Gdim | 
-| Eb | Fm | Gm | Ab | Bb | Cm | Ddim |
-| Bb | Cm | Dm | Eb | F | Gm | Adim |
-| F | Gm | Am | A# | C | Dm | Edim | 
+ 1 (I) | 2 (ii) | 3 (iii) | 4 (IV) | 5 (V) | 6 (vi) | 7 (vii°) 
+---|---|---|---|---|---|---
+C | Dm | Em | F | G | Am | Bdim
+G | Am | Bm | C | D | Em | F#dim
+D | Em | F#m | G | A | Bm | C#dim 
+A | Bm | C#m | D | E | F#m | G#dim 
+E | F#m | G#m | A | B | C#m | D#dim
+B | C#m | D#m | E | F# | G#m | A#dim
+Gb | Bbm | Cm | Db | Eb | Fm | Gdim 
+Db | Ebm | Fm | Gb | Ab | Bbm | Cdim
+Ab | Bbm | Cm | Db | Eb | F | Gdim 
+Eb | Fm | Gm | Ab | Bb | Cm | Ddim
+Bb | Cm | Dm | Eb | F | Gm | Adim
+F | Gm | Am | A# | C | Dm | Edim 
 
