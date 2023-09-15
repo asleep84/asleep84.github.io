@@ -6,6 +6,12 @@ color:
   header: "#fff"
   gradient_left: "#00FFFF"
   gradient_right: "#FF369b"
+  black: "#000"
+  white: "#fff"
+  pink: "#FF369b" 
+  cyan: "#00FFFF"
+  yellow: "#FFFF00" 
+
 logo_url: 
 gems:
 - jekyll-seo-tag
