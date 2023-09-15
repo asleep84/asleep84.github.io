@@ -11,8 +11,8 @@ The Nashville Number System is a music notation system that uses numbers to repr
 Musicians use the Nashville Number System because it simplifies transposing songs to different keys, streamlines communication during rehearsals and performances, all while enhancing music theory understanding and aiding in songwriting and composition.
 
 # Nashville Number System
-| 1 (I) | 2 (ii) | 3 (iii) | 4 (IV) | 5 (V) | 6 (vi) | 7 (vii°)|
-|---|---|---|---|---|---|---
+| 1 (I) | 2 (ii) | 3 (iii) | 4 (IV) | 5 (V) | 6 (vi) | 7 (vii°) |
+|---|---|---|---|---|---|---|
 | C | Dm | Em | F | G | Am | Bdim |
 | G | Am | Bm | C | D | Em | F#dim |
 | D | Em | F#m | G | A | Bm | C#dim | 
