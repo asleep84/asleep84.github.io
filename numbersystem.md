@@ -11,11 +11,18 @@ The Nashville Number System is a music notation system that uses numbers to repr
 Musicians use the Nashville Number System because it simplifies transposing songs to different keys, streamlines communication during rehearsals and performances, all while enhancing music theory understanding and aiding in songwriting and composition.
 
 # Nashville Number System
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 1 (I) | 2 (ii) | 3 (iii) | 4 (IV) | 5 (V) | 6 (vi) | 7 (vii°)|
 |---|---|---|---|---|---|---
 | C | Dm | Em | F | G | Am | Bdim |
-| D | Em | F#m | G | A | Bm | C#dim | 
-| E | F#m | G#m | A | B | C#m | D#dim |
-| F | Gm | Am | A# | C | Dm | Edim | 
 | G | Am | Bm | C | D | Em | F#dim |
+| D | Em | F#m | G | A | Bm | C#dim | 
 | A | Bm | C#m | D | E | F#m | G#dim | 
+| E | F#m | G#m | A | B | C#m | D#dim |
+| B | C#m | D#m | E | F# | G#m | A#dim |
+| Gb | Bbm | Cm | Db | Eb | Fm | Gdim | 
+| Db | Ebm | Fm | Gb | Ab | Bbm | Cdim |
+| Ab | Bbm | Cm | Db | F | Gm | Adim | 
+| Eb | Fm | Gm | Ab | Bb | Cm | Ddim |
+| Bb | Cm | Dm | Eb | F | Gm | Adim |
+| F | Gm | Am | A# | C | Dm | Edim | 
+
